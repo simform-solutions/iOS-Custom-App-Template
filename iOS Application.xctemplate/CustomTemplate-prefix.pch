@@ -1,0 +1,32 @@
+//
+//  CustomTemplate-prefix.pch
+//  CusomTemplate
+//
+//  Created by Tejas Ardeshna on 01/07/15.
+//  Copyright (c) 2015 Tejas Ardeshna. All rights reserved.
+//
+
+#ifndef CusomTemplate_CustomTemplate_prefix_pch
+#define CusomTemplate_CustomTemplate_prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif
+
+#ifdef __OBJC__
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "AppDelegate.h"
+#import "constant.h"
+#import "AFNetworking.h"
+#import "Reachability.h"
+#import "HexColor.h"
+#import "UIImage+ImageEffects.h"
+#import "NSDate+TimeAgo.h"
+#import "HelperClass.h"
+#import "SVProgressHUD.h"
+#define objAppDelegate ((AppDelegate *)[[UIApplication sharedApplication] delegate])
+#define objHelper [[HelperClass alloc]init]
+#endif
