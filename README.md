@@ -47,11 +47,11 @@ And it’s done. After install, just go to Xcode > New Project and you will see 
 * multipart post with block
 
 ##### Other Features
-* ###### Contant.h included
-* ###### [AFNetworking](https://github.com/AFNetworking/AFNetworking) included 
-* ###### Already generated pchfile
-* ###### [Crashlytics](https://www.crashlytics.com/) included (need to write script)
-* ###### [SVProgressHud](https://github.com/TransitApp/SVProgressHUD) included
-* ###### Reachability included
-* ###### [SDwebImages](https://github.com/rs/SDWebImage) included
+* Contant.h included
+* [AFNetworking](https://github.com/AFNetworking/AFNetworking) included 
+* Already generated pchfile
+* [Crashlytics](https://www.crashlytics.com/) included (need to write script)
+* [SVProgressHud](https://github.com/TransitApp/SVProgressHUD) included
+* Reachability included
+* [SDwebImages](https://github.com/rs/SDWebImage) included
 
