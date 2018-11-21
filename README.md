@@ -13,7 +13,7 @@ To install this template, just use 3 easy steps:
 
 And it’s done. After install, just go to Xcode > New Project and you will see option like below:
 
-![alt text](http://s27.postimg.org/whvmux4cj/xcode_new_project_screen.png)
+![alt text](https://github.com/simformsolutions/iOS-Custom-App-Template/blob/master/Screenshot%202018-11-21%20at%201.09.18%20PM.png)
 
 ### Features
 ##### Helper Class
