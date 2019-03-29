@@ -1,4 +1,4 @@
-# Custom app template - by Tejas Ardeshna @Simform Solutions
+# Custom app template
 
 ### Version: 1.0
 
